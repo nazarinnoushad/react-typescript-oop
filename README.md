@@ -2,9 +2,10 @@
 •	Use interface for typing the class structure
 
 
-//interface
+
 
 ```ts
+//interface
 interface Iperson  {
   name: string;
   age: number;
